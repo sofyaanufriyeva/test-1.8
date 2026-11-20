@@ -8,5 +8,5 @@
     width: 100%;
     padding: 20px;
     border: black 2px solid;
-    /*box-sizing: content-box;*/
+    /*box-sizing: border-box;*/
 }
