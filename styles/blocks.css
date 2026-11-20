@@ -1,0 +1,12 @@
+.wrapper {
+    width: 320px;
+    border: grey 1px solid;
+    padding: 10px;
+}
+
+.wrapper__card {
+    width: 100%;
+    padding: 20px;
+    border: black 2px solid;
+    /*box-sizing: content-box;*/
+}
